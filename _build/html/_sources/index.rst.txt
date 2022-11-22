@@ -5,8 +5,6 @@ Home
 
 Wiki para subir nuestras cosas
 
-
-
 .. toctree::
    :hidden:
 
