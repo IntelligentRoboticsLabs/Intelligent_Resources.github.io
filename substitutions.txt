@@ -7,7 +7,7 @@
 
 .. _project repo: https://github.com/IntelligentRoboticsLabs
 
-.. _documentation repo: https://github.com/IntelligentRoboticsLabs/Intelligent_Resources/doc
+.. _documentation repo: https://github.com/IntelligentRoboticsLabs/Intelligent_Resources/_build
 
 .. _documentation site: https://github.com/IntelligentRoboticsLabs/Intelligent_Resources.github.io
 
