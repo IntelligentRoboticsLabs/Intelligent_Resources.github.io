@@ -1,6 +1,4 @@
 # Intelligent_Resources.github.io
-
-# mocap4ros2.github.io
 https://intelligent_resources.github.io/
 
 Dependencies for Build: 
